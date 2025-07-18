@@ -6,5 +6,9 @@ public class HelloWorld {
 		System.out.println("Hello There!!!");
 
 	}
+    //from code changes from  b1 branch
+	public void m1() {
+	    System.out.println("from method-1");
+}
 
 }
